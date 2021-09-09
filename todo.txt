@@ -1,0 +1,2 @@
+Learn Jeyll--how to install it on a remote VPS and serve a website from, say, the domain www.krueckeberg.org.
+Learn how to basically use the docsy-jekyll theme to add pages (of genealogical documentation) to it, how to organize them, provide documetation, etc.
