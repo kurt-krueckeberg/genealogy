@@ -36,6 +36,5 @@ guide for a complete summary. Briefly:
  - *Templates* or specifically, "includes" that make it easy to create an alert, documentation link, or other content.
  - *Continuous Integration* recipes to preview the site
 
-
 For features, getting started with development, see the {% include doc.html name="Getting Started" path="getting-started" %} page. Would you like to request a feature or contribute?
 [Open an issue]({{ site.repo }}/issues)
